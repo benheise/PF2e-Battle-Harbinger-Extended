@@ -5,8 +5,7 @@ The Battle Harbinger Extended module introduces an expanded version of the Pathf
 
 ## Credits and Thanks
 
-**Credit and thanks to the following:**
-
+**Credit and thanks to the following for analyzing the Battle Harbinger archetype and posting their ideas. If this revised version works well, it is thanks to their brilliance.**
 * **CptLask** (CptLask)
 * **lago508** (lago508)
 * **Omena** (omenatyyppi)
@@ -14,16 +13,16 @@ The Battle Harbinger Extended module introduces an expanded version of the Pathf
 * **Lank** (lank891)
 * **Moth** (mothmariner)
 * **kalnix** (kalnix)
+
+**PF2e Foundry:** Wave and Tikael for helping debug and provide automation recommendations.
+
+**Thanks to Cody M. – The Sleeping Dragon Inn**, **Lee – Role Play Legends**, and the following folks for GMing or playing in the party to playtest these changes as a character in a campaign.
 * **Feindel** (Vestige321)
 * **Wrath** (WrathofKain)
 * **Athare** (chocoenjoyer42)
 * **Valenwoods**
 * **Vappy**
 * **Ezarian** (Will)
-
-**PF2e Foundry:** Wave and Tikael for helping debug and provide automation recommendations.
-
-**Cody M. – The Sleeping Dragon Inn**, and **Lee – Role Play Legends**: For letting me playtest these changes as a character in a campaign.
 
 ---
 
@@ -44,7 +43,7 @@ The Battle Harbinger Extended module introduces an expanded version of the Pathf
 
 The table below highlights the most significant differences between Paizo’s published **Battle Harbinger** archetype and the community-driven **Battle Harbinger Extended** revision. These changes collectively transform the Battle Harbinger from a niche support archetype into a flexible, front-line “holy herald” that can keep pace with Paizo’s martial wave-caster blends while preserving the original aura-centric identity.
 
-| Design Area                | **Paizo Battle Harbinger (Original)**                                                                                     | **Battle Harbinger Extended (This Conversation)**                                                                                                                                                                 | Rationale & Impact                                                                                                            |
+| Design Area                | **Paizo Battle Harbinger (Original)**                                                                                     | **Battle Harbinger Extended**                                                                                                                                                                 | Rationale & Impact                                                                                                            |
 | -------------------------- | ------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------- |
 | **Key Ability**            | Fixed to **Wisdom** (via Battle Creed).                                                                                | Player chooses **Strength, Dexterity, or Wisdom** at Dedication.                                                                                                                                                           | Enables STR-based melee concepts; broadens build space.                                                                       |
 | **Heavy-Armor Access**     | Gated behind the *Harbinger’s Protection* feat (6th).                                                                     | Granted automatically in the **Dedication** (baseline).                                                                                                                                                           | Removes a “tax” feat; lets the archetype fulfill “holy knight” fantasy sooner.                                                |
